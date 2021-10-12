@@ -1,5 +1,5 @@
 # DS3801 - Week 7 - React part 1
-## Get to know components & props
+Get to know components & props
 
 
 # Getting Started with Create React App
