@@ -1,3 +1,7 @@
+# DS3801 - Week 7 - React part 1
+## Get to know components & props
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
